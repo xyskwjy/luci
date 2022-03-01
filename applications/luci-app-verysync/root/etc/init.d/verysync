@@ -14,5 +14,5 @@ start() {
 }
 
 stop() {
-	kill -9 `pgrep verysync` >/dev/null 2>&1
+	kill -9 `pgrep very_sync` >/dev/null 2>&1
 }
